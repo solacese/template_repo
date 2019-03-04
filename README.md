@@ -1,2 +1,2 @@
 # template_repo
-Template repository - to be copies when contributing a demo
+Template repository - to be copied when contributing a demo
