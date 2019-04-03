@@ -81,7 +81,7 @@ git push origin my-fix-branch
 
 #### Step 6: Pull Request
 
-In GitHub, send a pull request to `solace-samples-template:master`.
+In GitHub, send a pull request to `<github-repo>:master`.
 
 When fixing an existing issue, use the [commit message keywords](https://help.github.com/articles/closing-issues-via-commit-messages/) to close the associated GitHub issue.
 
