@@ -1,4 +1,4 @@
-# How to contribute to a Solace Project
+# How to contribute
 
 We'd love for you to contribute and welcome your help. Here are some guidelines to follow:
 
